@@ -1,5 +1,6 @@
 # adminer.go
-Adminer to Go
+
+Power of [Adminer](https://www.adminer.org/) without the limitations of [PHP](https://www.php.net/)
 
 ## Thanks
 
