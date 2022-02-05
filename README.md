@@ -1,6 +1,6 @@
 # adminer.go
 
-Power of [Adminer](https://www.adminer.org/) without the limitations of [PHP](https://www.php.net/)
+Power of [Adminer](https://www.adminer.org/) without the limitations of [PHP](https://www.php.net/).
 
 ## Thanks
 
